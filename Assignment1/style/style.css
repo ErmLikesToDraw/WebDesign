@@ -18,6 +18,11 @@ h3, h4, h4, h5 {
   background-color: DarkOrange;
 }
 
+h6 {
+  text-align: center;
+  font-size: 30px;
+}
+
 p {
   max-width: 60%;
   margin: 0 auto;
