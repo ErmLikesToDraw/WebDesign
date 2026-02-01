@@ -26,7 +26,12 @@ h8, h9, h10 {
   color: DarkOrange;
 }
 
-h6, h7 {
+h6 {
+  text-align: center;
+  font-size: 30px;
+}
+
+h7 {
   text-align: center;
   font-size: 30px;
 }
