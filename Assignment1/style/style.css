@@ -17,6 +17,7 @@ h3, h4, h4, h5 {
   font-size: 30px;
   background-color: DarkOrange;
   max-width: 40%;
+  margin: 0 auto;
 }
 
 h6 {
