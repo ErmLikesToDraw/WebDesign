@@ -1,3 +1,4 @@
+/*main title*/
 h1 {
   padding: 35px;
   text-align: center;
@@ -5,13 +6,13 @@ h1 {
   font-size: 60px;
   color: DarkOrange;
 }
-
+/*subheading*/
 h2 {
   text-align: center;
   font-size: 40px;
   color: DarkOrange;
 }
-
+/*episode numbers*/
 h3, h4, h4, h5 {
   text-align: center;
   font-size: 30px;
@@ -19,23 +20,23 @@ h3, h4, h4, h5 {
   max-width: 40%;
   margin: 0 auto;
 }
-
+/*these are the yellow quotes*/
 h8, h9, h10 {
   text-align: center;
   font-size: 25px;
   color: Gold;
 }
-
+/*bees*/
 h6 {
   text-align: center;
   font-size: 30px;
 }
-
+/*soccer balls*/
 h7 {
   text-align: center;
   font-size: 30px;
 }
-
+/*paragraphs*/
 p {
   max-width: 60%;
   margin: 0 auto;
