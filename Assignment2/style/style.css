@@ -7,6 +7,13 @@
   background-color: Gold;
 }
 
+a {
+  color: red;
+  text-decoration: none;
+  max-width: 100%;
+  margin: 0 auto;
+}
+
 h1 {
   font-size: 60px;
   color: DarkOrange;
