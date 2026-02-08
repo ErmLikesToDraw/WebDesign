@@ -32,7 +32,7 @@ h2 {
   text-align: center;
 }
 /*episode numbers*/
-h3, h4, h4, h5 {
+h3 {
   font-size: 30px;
   background-color: DarkOrange;
   max-width: 40%;
@@ -40,16 +40,16 @@ h3, h4, h4, h5 {
   font-family: Helvetica;
 }
 /*these are the yellow quotes*/
-h8, h9, h10 {
+h4 {
   font-size: 25px;
-  color: GGold;
+  color: Gold;
 }
 
 .emoji {
   text-align: center;
   font-size: 30px;
 }
-/*bees are h6 and soccer balls are h7*/
+/*bees and soccer balls are h5*/
 
 /*paragraphs*/
 p {
