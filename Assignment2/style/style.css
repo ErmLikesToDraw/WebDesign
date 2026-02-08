@@ -17,6 +17,8 @@ a {
 h1 {
   font-size: 60px;
   color: DarkOrange;
+  font-family: helvetica;
+
 }
 /*subheading*/
 h2 {
@@ -35,7 +37,7 @@ h3, h4, h4, h5 {
   background-color: DarkOrange;
   max-width: 40%;
   margin: 0 auto;
-  font-family: Optima, sans-serif;
+  font-family: Helvetica;
 }
 /*these are the yellow quotes*/
 h8, h9, h10 {
