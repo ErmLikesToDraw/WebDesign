@@ -16,9 +16,15 @@ h2 {
   font-size: 40px;
   color: DarkOrange;
 }
+
+.chapter-heading {
+  border: 1px solid black;
+  padding: 35px;
+  text-align: center;
+  background-color: SlateBlue;
+}
 /*episode numbers*/
 h3, h4, h4, h5 {
-  text-align: center;
   font-size: 30px;
   background-color: DarkOrange;
   max-width: 40%;
@@ -26,7 +32,6 @@ h3, h4, h4, h5 {
 }
 /*these are the yellow quotes*/
 h8, h9, h10 {
-  text-align: center;
   font-size: 25px;
   color: Gold;
 }
@@ -46,7 +51,6 @@ p {
   margin: 0 auto;
   margin-bottom: 20px;
   font-size: 20px;
-  background-color: SlateBlue;
 }
 
 body {
