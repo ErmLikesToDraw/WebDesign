@@ -34,16 +34,13 @@ h8, h9, h10 {
   font-size: 25px;
   color: Gold;
 }
-/*bees*/
-h6 {
+
+.emoji {
   text-align: center;
   font-size: 30px;
 }
-/*soccer balls*/
-h7 {
-  text-align: center;
-  font-size: 30px;
-}
+/*bees are h6 and soccer balls are h7*/
+
 /*paragraphs*/
 p {
   max-width: 60%;
