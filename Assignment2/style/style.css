@@ -26,15 +26,12 @@ h2 {
   color: DarkOrange;
 }
 
-.body {
-  background-color: CornflowerBlue;
-}
-
 .chapter-heading {
   max-width: 60%;
   margin: 0 auto;
   padding: 35px;
   text-align: center;
+  background-color: CornflowerBlue;
 }
 /*episode numbers*/
 h3 {
