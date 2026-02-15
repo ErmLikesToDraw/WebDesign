@@ -27,6 +27,8 @@ h2 {
 }
 
 .chapter-heading {
+  max-width: 60%;
+  margin: 0 auto;
   padding: 35px;
   text-align: center;
 }
