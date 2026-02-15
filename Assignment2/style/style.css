@@ -26,6 +26,10 @@ h2 {
   color: DarkOrange;
 }
 
+.body {
+  background-color: CornflowerBlue;
+}
+
 .chapter-heading {
   max-width: 60%;
   margin: 0 auto;
