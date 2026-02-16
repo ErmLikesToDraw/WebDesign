@@ -7,6 +7,12 @@
   background-color: Gold;
 }
 
+nav {
+  max-width: 100%;
+  margin: 0 auto;
+  display: inline-block;
+}
+
 a {
   display: inline-block;
   color: red;
