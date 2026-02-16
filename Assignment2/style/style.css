@@ -4,7 +4,7 @@
   border: 1px solid black;
   padding: 35px;
   text-align: center;
-  background-color: #FOCE48;
+  background-color: Gold;
 }
 
 a {
@@ -17,14 +17,14 @@ a {
 
 h1 {
   font-size: 60px;
-  color: #EO9712;
+  color: DarkOrange;
   font-family: helvetica;
 
 }
 /*subheading*/
 h2 {
   font-size: 40px;
-  color: EO9712;
+  color: DarkOrange;
 }
 
 .chapter-heading {
@@ -32,12 +32,12 @@ h2 {
   margin: 0 auto;
   padding: 35px;
   text-align: center;
-  background-color: #6085CC;
+  background-color: Gold;
 }
 /*episode numbers*/
 h3 {
   font-size: 30px;
-  background-color: #EO9712;
+  background-color: DarkOrange;
   max-width: 40%;
   margin: 0 auto;
   font-family: Helvetica;
@@ -45,7 +45,7 @@ h3 {
 /*these are the yellow quotes*/
 h4 {
   font-size: 25px;
-  color: #EO9712;
+  color: Gold;
 }
 
 .emoji {
