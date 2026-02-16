@@ -17,14 +17,14 @@ a {
 
 h1 {
   font-size: 60px;
-  color: DarkOrange;
+  color: EO9712;
   font-family: helvetica;
 
 }
 /*subheading*/
 h2 {
   font-size: 40px;
-  color: DarkOrange;
+  color: EO9712;
 }
 
 .chapter-heading {
@@ -37,7 +37,7 @@ h2 {
 /*episode numbers*/
 h3 {
   font-size: 30px;
-  background-color: DarkOrange;
+  background-color: EO9712;
   max-width: 40%;
   margin: 0 auto;
   font-family: Helvetica;
@@ -71,7 +71,7 @@ p {
 
 body {
   background-color: 3D63A8;
-  border: 5px solid DarkOrange;
+  border: 5px solid EO9712;
 }
 
 
