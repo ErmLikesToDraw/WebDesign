@@ -13,8 +13,12 @@ nav {
   display: inline-block;
 }
 
-a {
+li {
+  list-style-type: none;
   display: inline-block;
+}
+
+a {
   color: red;
   text-decoration: none;
   max-width: 100%;
