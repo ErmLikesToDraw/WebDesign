@@ -4,12 +4,12 @@
   border: 1px solid black;
   padding: 35px;
   text-align: center;
-  background-color: FOCE48;
+  background-color: #FOCE48;
 }
 
 a {
   display: inline-block;
-  color: EO5109;
+  color: #EO5109;
   text-decoration: none;
   max-width: 100%;
   margin: 0 auto;
@@ -17,7 +17,7 @@ a {
 
 h1 {
   font-size: 60px;
-  color: EO9712;
+  color: #EO9712;
   font-family: helvetica;
 
 }
@@ -32,12 +32,12 @@ h2 {
   margin: 0 auto;
   padding: 35px;
   text-align: center;
-  background-color: 6085CC;
+  background-color: #6085CC;
 }
 /*episode numbers*/
 h3 {
   font-size: 30px;
-  background-color: EO9712;
+  background-color: #EO9712;
   max-width: 40%;
   margin: 0 auto;
   font-family: Helvetica;
@@ -70,8 +70,8 @@ p {
 }
 
 body {
-  background-color: 3D63A8;
-  border: 5px solid EO9712;
+  background-color: #3D63A8;
+  border: 5px solid #EO9712;
 }
 
 
