@@ -115,12 +115,34 @@ button:hover {
   background-color: Gold;
 }
 
+table {
+  width: 78%;
+  margin: 0 auto;
+  margin-bottom: 30px;
+  background-color: CornflowerBlue;
+  border: 1px solid Gold;
+  border-radius: 5px;
+}
+
+th, td {
+  padding: 12px;
+  border: 1px solid Gold;
+  text-align: left;
+}
+
+th {
+  background-color: CornflowerBlue;
+  font-weight: bold;
+}
+
 .footer {
   font-size: 5px;
   max-width: 100%;
   margin: 0 auto;
   text-align: center;
 }
+
+
 
 body {
   background-color: #5454C4;
