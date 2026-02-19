@@ -1,0 +1,85 @@
+/*main title*/
+
+.header {
+  border: 1px solid black;
+  padding: 35px;
+  text-align: center;
+  background-color: Gold;
+}
+
+nav {
+  max-width: 100%;
+  margin: 0 auto;
+  display: inline-block;
+}
+
+li {
+  list-style-type: none;
+  display: inline-block;
+}
+
+a {
+  color: red;
+  text-decoration: none;
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+h1 {
+  font-size: 60px;
+  color: DarkOrange;
+  font-family: helvetica;
+
+}
+/*subheading*/
+h2 {
+  font-size: 40px;
+  color: DarkOrange;
+}
+
+.chapter-heading {
+  max-width: 60%;
+  margin: 0 auto;
+  padding: 35px;
+  text-align: center;
+  background-color: #6060F0;
+}
+/*episode numbers*/
+h3 {
+  font-size: 30px;
+  background-color: DarkOrange;
+  max-width: 40%;
+  margin: 0 auto;
+  font-family: Helvetica;
+}
+/*these are the yellow quotes*/
+h4 {
+  font-size: 25px;
+  color: Gold;
+}
+
+.emoji {
+  text-align: center;
+  font-size: 30px;
+}
+/*bees and soccer balls are h5*/
+
+/*paragraphs*/
+p {
+  max-width: 60%;
+  margin: 0 auto;
+  margin-bottom: 20px;
+  font-size: 20px;
+}
+
+.footer {
+  font-size: 5px;
+  max-width: 100%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+body {
+  background-color: #5454C4;
+  border: 5px solid DarkOrange;
+}
