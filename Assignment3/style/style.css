@@ -157,4 +157,7 @@ th {
 body {
   background-color: #5454C4;
   border: 5px solid DarkOrange;
+  background-image: url(trees.jpeg);
+  backround-size: cover;
+  background-opacity: 10%;
 }
