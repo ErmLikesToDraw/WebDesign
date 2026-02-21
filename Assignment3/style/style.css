@@ -146,6 +146,23 @@ th {
   font-weight: bold;
 }
 
+/*this is the styling for my gallery page*/
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px; 
+  max-width: 800px; 
+  margin: 0 auto;
+  row-gap: 10px; 
+  column-gap: 10px; 
+}
+
+.gallery img {
+  width: calc(33.333% - 10px);
+  height: auto;
+}
+
 .footer {
   font-size: 5px;
   max-width: 100%;
