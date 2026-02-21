@@ -183,6 +183,7 @@ th {
 body {
   background-color: #5454C4;
   border: 5px solid DarkOrange;
+  border-radius: 6px;
 }
 
 
