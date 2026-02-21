@@ -5,7 +5,17 @@
   padding: 35px;
   text-align: center;
   background-color: Gold;
+  font-family: Tagesschrift, system-ui;
 }
+
+/*header font*/
+
+.tagesschrift-regular {
+  font-family: "Tagesschrift", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
 
 nav {
   max-width: 100%;
