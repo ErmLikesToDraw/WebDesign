@@ -165,6 +165,7 @@ gallery {
   margin: 0 auto;
   row-gap: 10px; 
   column-gap: 10px; 
+  align: center;
 }
 
 gallery img {
