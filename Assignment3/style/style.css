@@ -156,7 +156,7 @@ th {
 }
 
 /*this is the styling for my gallery page*/
-.gallery {
+gallery {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
