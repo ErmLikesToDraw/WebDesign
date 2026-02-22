@@ -167,7 +167,7 @@ th {
 }
 
 .gallery img {
-  width: calc(33.333% - 10px);
+  width: 200px;
   height: auto;
 }
 
