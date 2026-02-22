@@ -70,7 +70,7 @@ h3 {
   background-color: DarkOrange;
   max-width: 40%;
   margin: 0 auto;
-  font-family: Helvetica;
+  font-family: "Tagesschrift", system-ui;
 }
 /*these are the yellow quotes*/
 h4 {
