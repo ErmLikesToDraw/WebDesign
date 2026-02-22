@@ -182,9 +182,16 @@ gallery img {
 
 
 body {
+  padding: 0;
+  margin: 0;
   background-color: #5454C4;
   border: 5px solid DarkOrange;
   border-radius: 6px;
+  background-image: url("Images/background.jpg");
+  background-attatchment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
 }
 
 
