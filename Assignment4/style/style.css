@@ -87,6 +87,20 @@ nav {
   align: center;
 }
 
+h1 {
+  align: center;
+  background-color: Moccasin;
+}
+
+h2 {
+  align: center;
+  background-color: Moccasin;
+}
+
+p {
+  align: center;
+  background-color: Moccasin;
+}
 body {
   background-color: BurlyWood;
 }
