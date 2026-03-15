@@ -56,6 +56,20 @@
   justify-content: center;
 }
 
+.item img {
+  padding: 0px;
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 8px;
+}
+
+.item p {
+  text-align: center;
+  display: flex;
+  align-items: center;
+}
+
 body {
   background-color: DEB887;
 }
