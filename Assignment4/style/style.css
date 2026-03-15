@@ -77,6 +77,14 @@ nav {
   background-color: Moccasin;
 }
 
+/*this is the styling for my homepage*/
+
+.index text {
+  max-width: 70%
+  background color: Moccasin;
+  margin: 0 auto;
+}
+
 body {
   background-color: BurlyWood;
 }
