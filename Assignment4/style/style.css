@@ -12,14 +12,24 @@
   gap: 10px;
 }
 
+.fiddle {
+  width: 35%;
+  height: auto;
+  border-radius: 6px;
+}
+
 .date {
+  font-size: 10px;
 }
 
 .post-title {
+  font-size: 30px;
 }
 
 .post-preview {
+  font-size: 10px;
 }
 
 .read-more {
+  font-size: 10px;
 }
