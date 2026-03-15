@@ -28,6 +28,7 @@ nav {
   width: 35%;
   height: auto;
   border-radius: 6px;
+  flex-direction: column;
 }
 
 .date {
@@ -90,16 +91,20 @@ nav {
 h1 {
   align: center;
   background-color: Moccasin;
+  margin: 0 auto;
 }
 
 h2 {
   align: center;
   background-color: Moccasin;
+  margin: 0 auto;
 }
 
 p {
   align: center;
   background-color: Moccasin;
+  margin: 0 auto;
+  max-width: 60%
 }
 body {
   background-color: Peru;
