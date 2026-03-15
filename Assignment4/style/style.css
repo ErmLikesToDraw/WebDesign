@@ -108,6 +108,11 @@ p {
   margin: 0 auto;
   max-width: 60%
 }
+
+.index-image {
+  margin: 0 auto;
+}
+
 body {
   background-color: Peru;
   border: 5px solid Moccasin;
