@@ -4,7 +4,7 @@
   flex-direction: row;
   align-items: center;
   gap: 20px;
-  background-color: FFE4B5;
+  background-color: Moccasin;
   max-width: 80%;
   margin: 80px auto;
   padding: 20px 40px;
@@ -71,5 +71,5 @@
 }
 
 body {
-  background-color: DEB887;
+  background-color: BurlyWood;
 }
