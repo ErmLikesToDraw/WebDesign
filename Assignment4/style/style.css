@@ -103,4 +103,6 @@ p {
 }
 body {
   background-color: BurlyWood;
+  border: 5px solid YellowGreen;
+  border-radius: 6px;
 }
