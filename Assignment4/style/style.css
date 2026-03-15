@@ -78,10 +78,11 @@ nav {
 
 /*this is the styling for my homepage*/
 
-.index text {
+.index {
   max-width: 70%
   background color: Moccasin;
   margin: 0 auto;
+  align: center;
 }
 
 body {
