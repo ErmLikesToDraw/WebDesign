@@ -107,6 +107,7 @@ p {
   background-color: Moccasin;
   margin: 0 auto;
   max-width: 60%
+  padding: 20px;
 }
 
 .index-image {
