@@ -1,6 +1,7 @@
 body {
   background-color: LightSteelBlue;
   border: 2px solid AliceBlue;
+  border-radius: 5px;
 }
 
 .container {
