@@ -1,1 +1,17 @@
+.container {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  padding: 20px;
+}
 
+.images {
+  background-color: DarkGrey;
+  width: 250px;
+  padding: 15px;
+}
+
+.image img {
+  width: 90%;
+}
+  
