@@ -38,3 +38,9 @@ body {
   border: 5px solid Moccasin;
   border-radius: 6px;
 }
+
+@media (max-width: 600px) {
+}
+
+@media (min-with:600px) and (max-with:1024px) {
+}
