@@ -31,7 +31,23 @@
   margin-right: 10px;
   vertical-align: middle;
 }
+
+.card-section {
+  display: flex;
+  gap: 10px;
+  justify-content: space-between;
+}
   
+
+.card {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 20px;
+  max-width: 400px;
+  margin-bottom: 20px;
+  flex: 1;
+}
 
 body {
   background-color: Peru;
