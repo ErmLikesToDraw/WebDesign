@@ -58,7 +58,16 @@ p {
   margin-bottom: 20px;
   flex: 1;
   background-color: Moccasin;
+  transition: 0.5s;
 }
+
+.card:hover {
+  transform: scale(1.2);
+  background: black;
+  z-index: 2;
+}
+  
+  
 
 button {
   border-radius: 5px;
