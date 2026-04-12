@@ -87,6 +87,11 @@ button {
   max-width: 200px;
 }
 
+.button-section {
+  text-align: center;
+}
+
+
 body {
   background-color: Peru;
   border: 5px solid Moccasin;
