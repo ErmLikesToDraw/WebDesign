@@ -71,6 +71,10 @@
   gap: 10px;
 }
 
+.featured-section .blog-preview img {
+  width: 80px;
+  
+
 body {
   background-color: Peru;
   border: 5px solid Moccasin;
