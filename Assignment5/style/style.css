@@ -79,12 +79,13 @@ button {
   text-align: center;
 }
 
+.ornament {
+  display: flex
+  justify-content: center;
+}
+
 .ornament img {
-  text-align: center;
-  margin: 0;
   width: 25%;
-  height: auto;
-  
 }
 
 
