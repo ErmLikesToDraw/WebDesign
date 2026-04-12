@@ -58,6 +58,19 @@
   align-items: start;
 }
 
+.right-column {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.featured-section .blog-preview {
+  max-width: 100%;
+  margin: 0;
+  padding: 10px 0;
+  gap: 10px;
+}
+
 body {
   background-color: Peru;
   border: 5px solid Moccasin;
