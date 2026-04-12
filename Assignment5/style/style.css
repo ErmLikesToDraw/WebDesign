@@ -60,31 +60,6 @@ p {
   background-color: Moccasin;
 }
 
-.featured-section {
-  display: grid;
-  grid-template-columns: 1fr 2fr;
-  grid-template-rows: auto auto;
-  gap: 10px;
-  align-items: start;
-}
-
-.right-column {
-  display: flex;
-  flex-direction: column;
-  gap: 20px;
-}
-
-.featured-section .blog-preview {
-  max-width: 100%;
-  margin: 0;
-  padding: 10px 0;
-  gap: 10px;
-}
-
-.featured-section .blog-preview img {
-  width: 80px;
-}
-
 button {
   border-radius: 5px;
   background-color: Peru;
