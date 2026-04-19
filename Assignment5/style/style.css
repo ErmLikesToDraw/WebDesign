@@ -90,6 +90,10 @@ button {
 
 body {
   background-color: Peru;
+  background-image: url("..images/noise.png");
+  background-attatchment: fixed;
+  background-repeat: repeat;
+  background-position: center;
   border: 5px solid Moccasin;
   border-radius: 6px;
 }
