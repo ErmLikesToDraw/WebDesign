@@ -3,6 +3,13 @@
   text-align: center;
 }
 
+.tagesschrift-regular {
+  font-family: "Tagesschrift", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
 
 h1 {
   text-align: center;
