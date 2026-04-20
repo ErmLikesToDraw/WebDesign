@@ -1,1 +1,1 @@
-This is my fifth assignment
+This week I attempted to fix the background color issue, something that I still cannot figure out. I do like the color/font changes I made, as well as the way the card components enlarge when the mouse hovers over them. There's still a lot I could do, but with the limited time I had this week I did what I could! I am feeling the stress of the end of the year, but this class remains easy to follow and nice to work on!
