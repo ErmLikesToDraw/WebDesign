@@ -72,6 +72,7 @@ p {
   margin-bottom: 20px;
   flex: 1;
   transition: 0.5s;
+  border: 3px solid Peru;
 }
 
 .card:hover {
