@@ -113,6 +113,30 @@ button {
   width: 25%;
 }
 
+.parallax-banner {
+  height: 500px;
+  background-size: cover;
+  background-position: bottom;
+  background-attachment: fixed; 
+  position: relative;
+}
+
+.parallax-banner-overlay {
+  height: 100%;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.25);
+}
+
+.parallax-banner-content {
+  position: absolute;
+  bottom: 40px;
+  left: 50%;
+  transform: translateX(-50%);
+  text-align: center;
+  color: #faf7e8;
+  text-shadow: 0 0 10px #000;
+}
+
 
 body {
   background-color: Peru;
