@@ -1,1 +1,124 @@
+.index-image {
+  margin: 0 auto;
+  text-align: center;
+}
 
+.tagesschrift-regular {
+  font-family: "Tagesschrift", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.container-fluid {
+  background-color: Peru;
+}
+
+
+
+h1 {
+  text-align: center;
+  font-family: Tagesschrift, system-ui;
+}
+
+h2 {
+  text-align: center;
+  font-family: Tagesschrift, system-ui;
+}
+
+h3 {
+  text-align: center;
+  font-family: Tagesschrift, system-ui;
+}
+
+p {
+  text-align: center;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  background-color: Moccasin;
+  padding: 30px 100px;
+  font-family: arial, helvetica, sans-serif;
+}
+
+.footer ul {
+  list-style: none;
+  padding: 0;
+  maring: 0;
+}
+
+.footer li {
+  margin-bottom: 6px;
+  font-size: 14px;
+}
+
+.social-icons img {
+  width: 22px;
+  margin-right: 10px;
+  vertical-align: middle;
+}
+
+.card-section {
+  display: flex;
+  gap: 10px;
+  justify-content: space-between;
+}
+  
+
+.card {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 20px;
+  max-width: 400px;
+  margin-bottom: 20px;
+  flex: 1;
+  transition: 0.5s;
+  border: 3px solid Peru;
+}
+
+.card:hover {
+  transform: scale(1.1);
+  background: black;
+  z-index: 2;
+}
+  
+  
+
+button {
+  border-radius: 5px;
+  background-color: Peru;
+  max-width: 200px;
+}
+
+.button-section {
+  text-align: center;
+}
+
+.ornament {
+  display: flex;
+  justify-content: center;
+}
+
+.ornament img {
+  width: 25%;
+}
+
+
+body {
+  background-color: Peru;
+  background-image: url("..images/noise.png");
+  background-attatchment: fixed;
+  background-repeat: repeat;
+  background-position: center;
+  border: 5px solid Moccasin;
+  border-radius: 6px;
+}
+
+@media (max-width: 600px) {
+}
+
+@media (min-with:600px) and (max-with:1024px) {
+}
