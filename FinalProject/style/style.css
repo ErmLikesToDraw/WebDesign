@@ -137,6 +137,17 @@ button {
   text-shadow: 0 0 10px #000;
 }
 
+.parallax-banner-scroll {
+  height: 500px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+
+  background-attachment: scroll; 
+  position: relative;
+}
+
 
 body {
   background-color: Peru;
