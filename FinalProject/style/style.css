@@ -26,6 +26,23 @@
   padding: 15px;
 }
 
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+  max-width: 1000px;
+  margin: 0 auto;
+  row-gap: 15px;
+  column-gap: 15px;
+  align: center;
+}
+
+.gallery img {
+  width: 30%;
+  height: auto;
+}
+
 
 
 h1 {
