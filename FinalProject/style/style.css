@@ -47,6 +47,10 @@ p {
   text-align: center;
 }
 
+a {
+  text-align: center;
+}
+
 .footer {
   display: flex;
   justify-content: space-between;
