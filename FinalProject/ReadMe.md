@@ -23,6 +23,7 @@
 ###Structure
 **Navigation** Same as home
 **Header** Different folk style image
+**Main Content** Introduction, big card about the history of the band, then three cards, one for backtracks, gigs, and history. 
 **Call to Action** Same as home
 **Footer** Copyright and socials
 
@@ -34,8 +35,11 @@
 ###Structure
 **Navigation** Same as home
 **Header** Different folk style image
+**Main Content** paragraph explaining the blog structure, then live updates on the past performances of the band
 **Call to Action** Same as home
 **Footer** Copyright and socials
+
+
 ##Sign Up
 
 
@@ -44,5 +48,6 @@
 ###Structure
 **Navigation** Same as home
 **Header** Different folk style image
+**Main Content** give an email, name, and a checkbox for a newsletter
 **Call to Action** Same as home
 **Footer** Copyright and socials
